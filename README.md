@@ -14,11 +14,11 @@
 
 **Sinh viên : Trương Đức Việt -- 0295867 -- 67CS2**
 
+**Hoàng Quốc Vũ -- 4005667 -- 67CS2**
+
 **Bạch Hưng Bảo -- 0016867-- 67CS2**
 
 **Tôn Văn Dân -- 0113167 -- 67CS2**
-
-**Hoàng Quốc Vũ -- 4005667 -- 67CS2**
 
 **TÓM TẮT**
 
