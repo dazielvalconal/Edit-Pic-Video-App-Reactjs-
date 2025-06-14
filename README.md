@@ -12,7 +12,9 @@
 
 **Nhóm : 8**
 
-**Sinh viên : Trương Đức Việt -- 0295867 -- 67CS2**
+**Sinh viên : 
+
+Trương Đức Việt -- 0295867 -- 67CS2**
 
 **Hoàng Quốc Vũ -- 4005667 -- 67CS2**
 
